@@ -1,0 +1,5 @@
+->FOR Drought Prone Areas Irrigation Required 
+->Well-distributed rainfall of about 100 cm or irrigation facilities.
+
+->FOR Clayey type Soil Areas Irrigation Required.
+->Well-distributed rainfall of about 40 cm or irrigation facilities.
